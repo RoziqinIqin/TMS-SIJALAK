@@ -1,0 +1,73 @@
+.jwts_tabberlive {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-TOP: 0px;
+	
+}
+.jwts_tabberlive .jwts_tabbertab {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #bbb 0px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; MARGIN: 0px; BORDER-LEFT: #bbb 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #bbb 1px solid; background-color: #E7E6DB; 
+}
+.jwts_tabberlive .jwts_tabbertab H2 {
+	DISPLAY: none
+}
+.jwts_tabberlive .jwts_tabbertab H3 {
+	DISPLAY: none
+}
+.jwts_tabberlive .jwts_tabbertabhide {
+	DISPLAY: none
+}
+UL.jwts_tabbernav {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; BACKGROUND: none transparent scroll repeat 0% 0%; LIST-STYLE-IMAGE: none; PADDING-BOTTOM: 3px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-TOP: 3px; BORDER-BOTTOM: #bbb 1px solid; LIST-STYLE-TYPE: none; HEIGHT: auto
+}
+UL.jwts_tabbernav LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; LIST-STYLE-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+UL.jwts_tabbernav LI A {
+	BORDER-RIGHT: #bbb 1px solid;
+	PADDING-RIGHT: 4px;
+	BORDER-TOP: #bbb 1px solid;
+	PADDING-LEFT: 4px;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12px;
+	BACKGROUND: url(../../modules/mod_jw_ts/mod_jw_ts/slide_bg.png) #eee repeat-x 50% top;
+	PADDING-BOTTOM: 3px;
+	MARGIN: 0px 1px;
+	BORDER-LEFT: #bbb 1px solid;
+	COLOR: #333;
+	PADDING-TOP: 3px;
+	BORDER-BOTTOM: #bbb 1px;
+	text-decoration: none;
+}
+UL.jwts_tabbernav LI A:link {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #bbb 1px solid; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #C8C6B5 repeat-x 50% top; PADDING-BOTTOM: 3px; MARGIN: 0px 1px; BORDER-LEFT: #bbb 1px solid; COLOR: #333; PADDING-TOP: 3px; BORDER-BOTTOM: #bbb 1px
+}
+UL.jwts_tabbernav LI A:visited {
+	COLOR: #333
+}
+UL.jwts_tabbernav LI A:hover {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #f2f2f2; PADDING-BOTTOM: 3px; MARGIN: 0px 1px; BORDER-LEFT: #aaa 1px solid; COLOR: #0B6A65; PADDING-TOP: 3px; BORDER-BOTTOM: #aaa 1px; TEXT-DECORATION: none
+}
+UL.jwts_tabbernav LI.jwts_tabberactive A {
+	BACKGROUND: #E7E6DB; BORDER-BOTTOM: #E7E6DB 1px solid
+}
+UL.jwts_tabbernav LI.jwts_tabberactive A:hover {
+	BACKGROUND: #fff; BORDER-BOTTOM: #fff 1px solid; TEXT-DECORATION: none
+}
+UL.jwts_tabbernav LI.jwts_tabberactive {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL.jwts_tabbernav LI.jwts_tabberinactive {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.jwts_tabberlive .jwts_tabbertab {
+	TEXT-ALIGN: left
+}
+UL.jwts_tabbernav {
+	TEXT-ALIGN: left
+}
+.jwts_slider {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-TOP: 0px
+}
+.jwts_slidewrapper {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; VISIBILITY: hidden; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 100%; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: relative; HEIGHT: 0px; BORDER-BOTTOM-STYLE: none
+}
+
+

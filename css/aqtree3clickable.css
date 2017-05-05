@@ -1,0 +1,33 @@
+UL.aqtree3clickable LI {
+	LIST-STYLE-TYPE: none
+}
+UL.aqtree3clickable {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL.aqtree3clickable UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL.aqtree3clickable LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL.aqtree3clickable UL {
+	PADDING-LEFT: 10px
+}
+UL.aqtree3clickable LI A {
+	PADDING-LEFT: 10px
+}
+UL.aqtree3clickable LI.aq3open A {
+	BACKGROUND: url(../images/minus.gif) no-repeat left center
+}
+UL.aqtree3clickable LI.aq3closed A {
+	BACKGROUND: url(../images/plus.gif) no-repeat left center
+}
+UL.aqtree3clickable LI.aq3bullet A {
+	BACKGROUND: url(../images/bullet.gif) no-repeat left center
+}
+UL.aqtree3clickable LI.aq3open UL {
+	DISPLAY: block
+}
+UL.aqtree3clickable LI.aq3closed UL {
+	DISPLAY: none
+}
